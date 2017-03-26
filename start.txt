@@ -1,1 +1,2 @@
-Test Git Start demo
+Test Git Start demo.
+/bin/bash: wqwq: command not found
